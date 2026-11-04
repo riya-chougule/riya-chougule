@@ -18,17 +18,19 @@ I'm a **Data & AI Engineer** with **3+ years of experience** across machine lear
 -  **Exploring:** Agentic workflows, retrieval evaluation, and robust visual perception.
 - 📍 **Based in:** San Jose, California.
 
+---
+
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages & Tools
+### Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-### 🧠 Generative AI & Agentic AI
+### Generative AI & Agentic AI
 ![LLMs](https://img.shields.io/badge/LLMs-764ABC?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-8E44AD?style=for-the-badge)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-9333EA?style=for-the-badge)
@@ -39,7 +41,7 @@ I'm a **Data & AI Engineer** with **3+ years of experience** across machine lear
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Chroma](https://img.shields.io/badge/Chroma-673AB7?style=for-the-badge)
 
-### 👁️ Computer Vision & Deep Learning
+### Computer Vision & Deep Learning
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-007ACC?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-2563EB?style=for-the-badge)
 ![CNN](https://img.shields.io/badge/CNN-0284C7?style=for-the-badge)
@@ -50,12 +52,12 @@ I'm a **Data & AI Engineer** with **3+ years of experience** across machine lear
 ![Anomaly Detection](https://img.shields.io/badge/Anomaly_Detection-14B8A6?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### 📝 NLP & Document Intelligence
+### NLP
 ![OCR](https://img.shields.io/badge/OCR-0D9488?style=for-the-badge)
 ![Information Retrieval](https://img.shields.io/badge/Information_Extraction-059669?style=for-the-badge)
 ![Document Intelligence](https://img.shields.io/badge/Document_AI-10B981?style=for-the-badge)
 
-### ☁️ Cloud, Big Data & Data Engineering
+### Cloud, Big Data & Data Engineering
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
@@ -63,7 +65,7 @@ I'm a **Data & AI Engineer** with **3+ years of experience** across machine lear
 ![Dagster](https://img.shields.io/badge/Dagster-4F43DD?style=for-the-badge&logo=dagster&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🚀 Applications, Deployment & Testing
+### Applications, Deployment & Testing
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
@@ -71,7 +73,7 @@ I'm a **Data & AI Engineer** with **3+ years of experience** across machine lear
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 📊 Analytics & Visualization
+### Analytics & Visualization
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
@@ -86,6 +88,7 @@ I'm a **Data & AI Engineer** with **3+ years of experience** across machine lear
 | **📚 [FDA Guidelines RAG Assistant]([https://github.com/riya-chougule/REPO-NAME](https://github.com/riya-chougule/GenAI-Competition-conducted-by-HPE))** | Award-winning RAG assistant over **2,100+ FDA documents**, with cited answers and **93% accuracy in project evaluation** | LangChain, Chroma, GPT-3.5, Gradio |
 | **🚗 [Autonomous Driving Segmentation]([https://github.com/riya-chougule/REPO-NAME](https://github.com/riya-chougule/Image-segmentation-for-self-driving-cars))** | U-Net road-scene semantic segmentation using BDD100K and Indian street imagery; published research | PyTorch, U-Net, Computer Vision |
 
+---
 
 
 ### 📌 Highlights
@@ -97,6 +100,7 @@ I'm a **Data & AI Engineer** with **3+ years of experience** across machine lear
 - 📄 **Published research** - Computer vision techniques for autonomous driving (IJERCSE)
 
 
+---
 
 ### 🤝 Let's Build Something Meaningful
 
