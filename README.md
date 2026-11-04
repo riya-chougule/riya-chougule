@@ -85,7 +85,7 @@ I'm a **Data & AI Engineer** with **3+ years of experience** across machine lear
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **🏥 [MedThread AI]([https://github.com/riya-chougule/REPO-NAME](https://github.com/riya-chougule/MedThread-ai))** | Evidence-grounded clinical discharge handoff prototype with structured extraction, source traceability, and validation safeguards using **synthetic EHR data** | LangChain, OpenAI, Pydantic, Streamlit, pytest |
-| **📚 [FDA Guidelines RAG Assistant]([https://github.com/riya-chougule/REPO-NAME](https://github.com/riya-chougule/GenAI-Competition-conducted-by-HPE))** | Award-winning RAG assistant over **2,100+ FDA documents**, with cited answers and **93% accuracy in project evaluation** | LangChain, Chroma, GPT-3.5, Gradio |
+| **📚 [FDA Guidelines RAG Assistant]([https://github.com/riya-chougule/REPO-NAME](https://github.com/riya-chougule/GenAI-Competition-conducted-by-HPE))** | Award-winning RAG based assistant over **2,100+ FDA (Food and Drug Administration) documents**, with cited answers and **93% accuracy in project evaluation** | LangChain, Chroma, GPT-3.5, Gradio |
 | **🚗 [Autonomous Driving Segmentation]([https://github.com/riya-chougule/REPO-NAME](https://github.com/riya-chougule/Image-segmentation-for-self-driving-cars))** | U-Net road-scene semantic segmentation using BDD100K and Indian street imagery; published research | PyTorch, U-Net, Computer Vision |
 
 ---
