@@ -48,7 +48,7 @@ I'm a **Data & AI Engineer** with **3+ years of experience** across machine lear
 ![RNN](https://img.shields.io/badge/RNN-0369A1?style=for-the-badge)
 ![U-Net](https://img.shields.io/static/v1?label=U-Net&message=Segmentation&color=0E7490&style=for-the-badge)
 ![Classification](https://img.shields.io/static/v1?label=Classification&message=ML&color=0891B2&style=for-the-badge)
-![Object Detection](https://img.shields.io/badge/Object%20Detection-0D9488?style=for-the-badge)
+![Object Detection](https://img.shields.io/badge/Object_Detection-0D9488?style=for-the-badge)
 ![Anomaly Detection](https://img.shields.io/badge/Anomaly_Detection-14B8A6?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
