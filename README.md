@@ -38,24 +38,25 @@ I'm a **Data & AI Engineer** with **3+ years of experience** across machine lear
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6D28D9?style=for-the-badge)
 ![Context Engineering](https://img.shields.io/badge/Context_Engineering-A855F7?style=for-the-badge)
 ![Knowledge Graphs](https://img.shields.io/badge/Knowledge_Graphs-5B21B6?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Chroma](https://img.shields.io/badge/Chroma-673AB7?style=for-the-badge)
+![Chroma](https://img.shields.io/static/v1?label=Chroma&message=Vector%20Database&color=673AB7&style=for-the-badge)
+
 
 ### Computer Vision & Deep Learning
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-007ACC?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-2563EB?style=for-the-badge)
 ![CNN](https://img.shields.io/badge/CNN-0284C7?style=for-the-badge)
 ![RNN](https://img.shields.io/badge/RNN-0369A1?style=for-the-badge)
-![U-Net](https://img.shields.io/badge/U--Net-0E7490?style=for-the-badge)
-![Classification](https://img.shields.io/badge/Classification-0891B2?style=for-the-badge)
-![Object Detection](https://img.shields.io/badge/Object_Detection-0D9488?style=for-the-badge)
+![U-Net](https://img.shields.io/static/v1?label=U-Net&message=Segmentation&color=0E7490&style=for-the-badge)
+![Classification](https://img.shields.io/static/v1?label=Classification&message=ML&color=0891B2&style=for-the-badge)
+![Object Detection](https://img.shields.io/static/v1?label=Object%20Detection&message=Computer%20Vision&color=0D9488&style=for-the-badge)
 ![Anomaly Detection](https://img.shields.io/badge/Anomaly_Detection-14B8A6?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### NLP
 ![OCR](https://img.shields.io/badge/OCR-0D9488?style=for-the-badge)
-![Information Retrieval](https://img.shields.io/badge/Information_Extraction-059669?style=for-the-badge)
-![Document Intelligence](https://img.shields.io/badge/Document_AI-10B981?style=for-the-badge)
+![Information Retrieval](https://img.shields.io/static/v1?label=Information%20Retrieval&message=NLP&color=059669&style=for-the-badge)
+![Document Intelligence](https://img.shields.io/static/v1?label=Document%20Intelligence&message=AI&color=10B981&style=for-the-badge)
+
 
 ### Cloud, Big Data & Data Engineering
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
@@ -84,9 +85,10 @@ I'm a **Data & AI Engineer** with **3+ years of experience** across machine lear
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **🏥 [MedThread AI]([https://github.com/riya-chougule/REPO-NAME](https://github.com/riya-chougule/MedThread-ai))** | Evidence-grounded clinical discharge handoff prototype with structured extraction, source traceability, and validation safeguards using **synthetic EHR data** | LangChain, OpenAI, Pydantic, Streamlit, pytest |
-| **📚 [FDA Guidelines RAG Assistant]([https://github.com/riya-chougule/REPO-NAME](https://github.com/riya-chougule/GenAI-Competition-conducted-by-HPE))** | Award-winning RAG based chatbot over **2,100+ FDA (Food and Drug Administration) documents**, with cited answers and **93% accuracy in project evaluation** | LangChain, Chroma, GPT-3.5, Gradio |
-| **🚗 [Autonomous Driving Segmentation]([https://github.com/riya-chougule/REPO-NAME](https://github.com/riya-chougule/Image-segmentation-for-self-driving-cars))** | U-Net road-scene semantic segmentation using BDD100K and Indian street imagery; published research | PyTorch, U-Net, Computer Vision |
+| **🏥 [MedThread AI](https://github.com/riya-chougule/MedThread-ai)** | Evidence-grounded clinical discharge handoff prototype with structured extraction, source traceability, and validation safeguards using **synthetic EHR data** | LangChain, OpenAI, Pydantic, Streamlit, pytest |
+| **📚 [FDA Guidelines RAG Assistant](https://github.com/riya-chougule/GenAI-Competition-conducted-by-HPE)** | Award-winning RAG chatbot over **2,100+ FDA documents**, with cited answers and **93% accuracy in project evaluation** | LangChain, Chroma, GPT-3.5, Gradio |
+| **🚗 [Autonomous Driving Segmentation](https://github.com/riya-chougule/Image-segmentation-for-self-driving-cars)** | U-Net road-scene semantic segmentation using BDD100K and Indian street imagery; published research | PyTorch, U-Net, Computer Vision |
+
 
 ---
 
